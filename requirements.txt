@@ -1,0 +1,39 @@
+flashCardN requirement.txt
+flashCardN is a flashcard app which supports cards with N sides.
+It is built in vanilla javascript/html/css with modern web standards and is designed to be used in the browser.
+It reads from a directory named "decks" which contains subdirectories for each deck. In the initial MVP version, each deck subdirectory contains a file named "deck.json" which describes the deck and its cards.
+If the user were studying U.S. states, the file might be called "us-states.json" and contain data like this:
+
+{
+  "name": "U.S. States",
+  "description": "A deck of flashcards for studying U.S. states.",
+  "cards": [
+    {
+      "Alabama": [
+        {
+          "name": "Alabama",
+          "capital": "Montgomery",
+          "date-admitted": "1819-12-14",
+          "rank": 22,
+          "nickname": "Yellowhammer State"
+        },
+        {
+          "name": "Alaska",
+          "capital": "Juneau",
+          "date-admitted": "1959-01-03",
+          "rank": 49,
+          "nickname": "The Last Frontier
+        }
+      ]
+    }
+  ]
+}
+
+The app displays the cards in a user-friendly way, allowing users to flip through the cards sequentially, forward or backwards alphabetically by name.  Future versions will allow other fields to be designated as the sort order.
+Each card displays  all of the fields by default, but users can choose to hide or re-show the values of certain fields if they wish. Each key/value pair is displayed with a number (1, 2, 3, etc.) which the user can click or type to toggle the visibility of that field's value. This allows users to test themselves on specific pieces of information while still having access to the other fields for reference.
+
+Aside from clicking or typing a field's number, other available commands are:
+- `next` button (keystroke n or right arrow): Move to the next card in the current deck.
+- `prev` button (keystroke p or left arrow): Move to the previous card in the current deck.
+- `shuffle` button (keystroke s): Shuffle the order of the cards in the current deck.
+- `reset` button (keystroke r): Reset the deck to its original order.

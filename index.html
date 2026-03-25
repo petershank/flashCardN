@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flashCardN</title>
+</head>
+<body>
+    <div id="app">
+        <header>
+            <h1>flashCardN</h1>
+            <div id="deck-info">
+                <h2 id="deck-name"></h2>
+                <p id="deck-description"></p>
+            </div>
+        </header>
+
+        <main>
+            <div id="card-container">
+                <div id="card-counter"></div>
+                <div id="card-content"></div>
+            </div>
+
+            <div id="controls">
+                <button id="prev-btn">Previous (p/←)</button>
+                <button id="next-btn">Next (n/→)</button>
+                <button id="shuffle-btn">Shuffle (s)</button>
+                <button id="reset-btn">Reset (r)</button>
+            </div>
+        </main>
+
+        <div id="error-message"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

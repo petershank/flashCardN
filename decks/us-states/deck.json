@@ -1,0 +1,41 @@
+{
+  "name": "U.S. States",
+  "description": "A deck of flashcards for studying U.S. states.",
+  "cards": [
+    {
+      "name": "Alabama",
+      "capital": "Montgomery",
+      "date-admitted": "1819-12-14",
+      "rank": 22,
+      "nickname": "Yellowhammer State"
+    },
+    {
+      "name": "Alaska",
+      "capital": "Juneau",
+      "date-admitted": "1959-01-03",
+      "rank": 49,
+      "nickname": "The Last Frontier"
+    },
+    {
+      "name": "Arizona",
+      "capital": "Phoenix",
+      "date-admitted": "1912-02-14",
+      "rank": 48,
+      "nickname": "Grand Canyon State"
+    },
+    {
+      "name": "Arkansas",
+      "capital": "Little Rock",
+      "date-admitted": "1836-06-15",
+      "rank": 25,
+      "nickname": "Natural State"
+    },
+    {
+      "name": "California",
+      "capital": "Sacramento",
+      "date-admitted": "1850-09-09",
+      "rank": 31,
+      "nickname": "Golden State"
+    }
+  ]
+}
