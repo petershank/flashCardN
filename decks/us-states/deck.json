@@ -36,6 +36,321 @@
       "date-admitted": "1850-09-09",
       "rank": 31,
       "nickname": "Golden State"
+    },
+    {
+      "name": "Colorado",
+      "capital": "Denver",
+      "date-admitted": "1876-08-01",
+      "rank": 38,
+      "nickname": "Centennial State"
+    },
+    {
+      "name": "Connecticut",
+      "capital": "Hartford",
+      "date-admitted": "1788-01-09",
+      "rank": 5,
+      "nickname": "Constitution State"
+    },
+    {
+      "name": "Delaware",
+      "capital": "Dover",
+      "date-admitted": "1787-12-07",
+      "rank": 1,
+      "nickname": "First State"
+    },
+    {
+      "name": "Florida",
+      "capital": "Tallahassee",
+      "date-admitted": "1845-03-03",
+      "rank": 27,
+      "nickname": "Sunshine State"
+    },
+    {
+      "name": "Georgia",
+      "capital": "Atlanta",
+      "date-admitted": "1788-01-02",
+      "rank": 4,
+      "nickname": "Peach State"
+    },
+    {
+      "name": "Hawaii",
+      "capital": "Honolulu",
+      "date-admitted": "1959-08-21",
+      "rank": 50,
+      "nickname": "Aloha State"
+    },
+    {
+      "name": "Idaho",
+      "capital": "Boise",
+      "date-admitted": "1890-07-03",
+      "rank": 43,
+      "nickname": "Gem State"
+    },
+    {
+      "name": "Illinois",
+      "capital": "Springfield",
+      "date-admitted": "1818-12-03",
+      "rank": 21,
+      "nickname": "Prairie State"
+    },
+    {
+      "name": "Indiana",
+      "capital": "Indianapolis",
+      "date-admitted": "1816-12-11",
+      "rank": 19,
+      "nickname": "Hoosier State"
+    },
+    {
+      "name": "Iowa",
+      "capital": "Des Moines",
+      "date-admitted": "1846-12-28",
+      "rank": 29,
+      "nickname": "Hawkeye State"
+    },
+    {
+      "name": "Kansas",
+      "capital": "Topeka",
+      "date-admitted": "1861-01-29",
+      "rank": 34,
+      "nickname": "Sunflower State"
+    },
+    {
+      "name": "Kentucky",
+      "capital": "Frankfort",
+      "date-admitted": "1792-06-01",
+      "rank": 15,
+      "nickname": "Bluegrass State"
+    },
+    {
+      "name": "Louisiana",
+      "capital": "Baton Rouge",
+      "date-admitted": "1812-04-30",
+      "rank": 18,
+      "nickname": "Pelican State"
+    },
+    {
+      "name": "Maine",
+      "capital": "Augusta",
+      "date-admitted": "1820-03-15",
+      "rank": 23,
+      "nickname": "Pine Tree State"
+    },
+    {
+      "name": "Maryland",
+      "capital": "Annapolis",
+      "date-admitted": "1788-04-28",
+      "rank": 7,
+      "nickname": "Old Line State"
+    },
+    {
+      "name": "Massachusetts",
+      "capital": "Boston",
+      "date-admitted": "1788-02-06",
+      "rank": 6,
+      "nickname": "Bay State"
+    },
+    {
+      "name": "Michigan",
+      "capital": "Lansing",
+      "date-admitted": "1837-01-26",
+      "rank": 26,
+      "nickname": "Great Lakes State"
+    },
+    {
+      "name": "Minnesota",
+      "capital": "Saint Paul",
+      "date-admitted": "1858-05-11",
+      "rank": 32,
+      "nickname": "North Star State"
+    },
+    {
+      "name": "Mississippi",
+      "capital": "Jackson",
+      "date-admitted": "1817-12-10",
+      "rank": 20,
+      "nickname": "Magnolia State"
+    },
+    {
+      "name": "Missouri",
+      "capital": "Jefferson City",
+      "date-admitted": "1821-08-10",
+      "rank": 24,
+      "nickname": "Show-Me State"
+    },
+    {
+      "name": "Montana",
+      "capital": "Helena",
+      "date-admitted": "1889-11-08",
+      "rank": 41,
+      "nickname": "Treasure State"
+    },
+    {
+      "name": "Nebraska",
+      "capital": "Lincoln",
+      "date-admitted": "1867-03-01",
+      "rank": 37,
+      "nickname": "Cornhusker State"
+    },
+    {
+      "name": "Nevada",
+      "capital": "Carson City",
+      "date-admitted": "1864-10-31",
+      "rank": 36,
+      "nickname": "Silver State"
+    },
+    {
+      "name": "New Hampshire",
+      "capital": "Concord",
+      "date-admitted": "1788-06-21",
+      "rank": 9,
+      "nickname": "Granite State"
+    },
+    {
+      "name": "New Jersey",
+      "capital": "Trenton",
+      "date-admitted": "1787-12-18",
+      "rank": 3,
+      "nickname": "Garden State"
+    },
+    {
+      "name": "New Mexico",
+      "capital": "Santa Fe",
+      "date-admitted": "1912-01-06",
+      "rank": 47,
+      "nickname": "Land of Enchantment"
+    },
+    {
+      "name": "New York",
+      "capital": "Albany",
+      "date-admitted": "1788-07-26",
+      "rank": 11,
+      "nickname": "Empire State"
+    },
+    {
+      "name": "North Carolina",
+      "capital": "Raleigh",
+      "date-admitted": "1789-11-21",
+      "rank": 12,
+      "nickname": "Tar Heel State"
+    },
+    {
+      "name": "North Dakota",
+      "capital": "Bismarck",
+      "date-admitted": "1889-11-02",
+      "rank": 39,
+      "nickname": "Peace Garden State"
+    },
+    {
+      "name": "Ohio",
+      "capital": "Columbus",
+      "date-admitted": "1803-03-01",
+      "rank": 17,
+      "nickname": "Buckeye State"
+    },
+    {
+      "name": "Oklahoma",
+      "capital": "Oklahoma City",
+      "date-admitted": "1907-11-16",
+      "rank": 46,
+      "nickname": "Sooner State"
+    },
+    {
+      "name": "Oregon",
+      "capital": "Salem",
+      "date-admitted": "1859-02-14",
+      "rank": 33,
+      "nickname": "Beaver State"
+    },
+    {
+      "name": "Pennsylvania",
+      "capital": "Harrisburg",
+      "date-admitted": "1787-12-12",
+      "rank": 2,
+      "nickname": "Keystone State"
+    },
+    {
+      "name": "Rhode Island",
+      "capital": "Providence",
+      "date-admitted": "1790-05-29",
+      "rank": 13,
+      "nickname": "Ocean State"
+    },
+    {
+      "name": "South Carolina",
+      "capital": "Columbia",
+      "date-admitted": "1788-05-23",
+      "rank": 8,
+      "nickname": "Palmetto State"
+    },
+    {
+      "name": "South Dakota",
+      "capital": "Pierre",
+      "date-admitted": "1889-11-02",
+      "rank": 40,
+      "nickname": "Mount Rushmore State"
+    },
+    {
+      "name": "Tennessee",
+      "capital": "Nashville",
+      "date-admitted": "1796-06-01",
+      "rank": 16,
+      "nickname": "Volunteer State"
+    },
+    {
+      "name": "Texas",
+      "capital": "Austin",
+      "date-admitted": "1845-12-29",
+      "rank": 28,
+      "nickname": "Lone Star State"
+    },
+    {
+      "name": "Utah",
+      "capital": "Salt Lake City",
+      "date-admitted": "1896-01-04",
+      "rank": 45,
+      "nickname": "Beehive State"
+    },
+    {
+      "name": "Vermont",
+      "capital": "Montpelier",
+      "date-admitted": "1791-03-04",
+      "rank": 14,
+      "nickname": "Green Mountain State"
+    },
+    {
+      "name": "Virginia",
+      "capital": "Richmond",
+      "date-admitted": "1788-06-25",
+      "rank": 10,
+      "nickname": "Old Dominion"
+    },
+    {
+      "name": "Washington",
+      "capital": "Olympia",
+      "date-admitted": "1889-11-11",
+      "rank": 42,
+      "nickname": "Evergreen State"
+    },
+    {
+      "name": "West Virginia",
+      "capital": "Charleston",
+      "date-admitted": "1863-06-20",
+      "rank": 35,
+      "nickname": "Mountain State"
+    },
+    {
+      "name": "Wisconsin",
+      "capital": "Madison",
+      "date-admitted": "1848-05-29",
+      "rank": 30,
+      "nickname": "Badger State"
+    },
+    {
+      "name": "Wyoming",
+      "capital": "Cheyenne",
+      "date-admitted": "1890-07-10",
+      "rank": 44,
+      "nickname": "Equality State"
     }
   ]
 }
