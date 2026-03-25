@@ -1,0 +1,7 @@
+{
+  "deploy": {
+    "project": "flashcardn",
+    "entrypoint": "server.ts",
+    "exclude": []
+  }
+}
