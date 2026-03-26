@@ -1,0 +1,32 @@
+name: Deno Deploy Notification
+
+on:
+  repository_dispatch:
+    types: [deno-deploy-build]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send success notification
+        if: github.event.client_payload.status == 'success'
+        run: |
+          curl -H "Title: ✅ Deploy Success" \
+               -H "Tags: white_check_mark" \
+               -d "Your app '${{ github.event.client_payload.app.slug }}' deployed successfully to Deno Deploy! 🚀
+
+          Commit: ${{ github.event.client_payload.revision.git.sha }}
+          Preview: ${{ github.event.client_payload.revision.preview_url }}" \
+               ntfy.sh/peter-deno-deploy-notifications
+
+      - name: Send failure notification
+        if: github.event.client_payload.status == 'failure'
+        run: |
+          curl -H "Title: ❌ Deploy Failed" \
+               -H "Tags: x" \
+               -H "Priority: high" \
+               -d "Deployment of '${{ github.event.client_payload.app.slug }}' failed!
+
+          Commit: ${{ github.event.client_payload.revision.git.sha }}
+          Check: ${{ github.event.client_payload.revision.html_url }}" \
+               ntfy.sh/peter-deno-deploy-notifications
